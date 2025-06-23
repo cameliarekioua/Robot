@@ -30,8 +30,8 @@ L’usine est visualisée graphiquement via une interface (canvas), et les robot
 Cloner le projet :
 
 ```bash
-git clone https://github.com/<nom-utilisateur>/<nom-projet>.git
-cd <nom-projet>
+git clone https://github.com/<cameliarekioua>/<robot>.git
+cd <robot>
 ```
 
 ---
@@ -48,20 +48,20 @@ cd <nom-projet>
 #### Compilation :
 
 ```bash
-javac -cp "libs/*" -d bin src/chemin/vers/SimulatorApplication.java
+javac -cp "libs/*" -d bin src/fr/tp/inf112/robotsim/simulator/SimulatorApplication.java
 ```
 
 #### Exécution :
 
 ```bash
-java -cp "libs/*:bin" chemin.vers.SimulatorApplication
+java -cp "libs/*:bin" fr.tp.inf112.robotsim.simulator.SimulatorApplication
 ```
 
 (*Adapter le chemin selon l’organisation du projet*)
 
 ---
 
-## onctionnalités optionnelles intégrées
+## Fonctionnalités optionnelles intégrées
 
 - **Portes automatiques**
 
