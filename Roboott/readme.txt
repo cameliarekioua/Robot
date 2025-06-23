@@ -24,6 +24,8 @@ L’usine est visualisée graphiquement via une interface (canvas), et les robot
 - **Interface graphique** pour visualiser la simulation en temps réel
 
 ---
+## Diagramme de classe
+![Diagramme de classe](docs/diagramme-classe.png)
 
 ## Installation
 
