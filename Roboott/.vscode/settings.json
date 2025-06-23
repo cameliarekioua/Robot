@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Utilisateur\\Downloads\\canvas-viewer.jar",
+        "c:\\Users\\Utilisateur\\OneDrive\\Bureau\\travail\\X\\Info 371\\ProjetRobot\\Roboott\\lib\\canvas-viewer.jar"
+    ]
+}
