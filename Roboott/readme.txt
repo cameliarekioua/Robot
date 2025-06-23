@@ -25,7 +25,7 @@ L’usine est visualisée graphiquement via une interface (canvas), et les robot
 
 ---
 ## Diagramme de classe
-![Diagramme de classe](docs/diagramme-classe.png)
+![Diagramme de classe](docs/diagramme.png)
 
 ## Installation
 
