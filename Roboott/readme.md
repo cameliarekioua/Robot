@@ -1,6 +1,3 @@
-# README.md
-
-```markdown
 # Projet Java – Simulation d’Usine Robotisée
 
 ## À propos
