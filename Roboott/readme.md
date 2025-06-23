@@ -22,7 +22,7 @@ L’usine est visualisée graphiquement via une interface (canvas), et les robot
 
 ---
 ## Diagramme de classe
-![Diagramme de classe](docs/diagramme.png)
+![Diagramme de classe](src/diagramme.png)
 
 ## Installation
 
@@ -62,7 +62,7 @@ java -cp "libs/*:bin" fr.tp.inf112.robotsim.simulator.SimulatorApplication
 
 ## Fonctionnalités optionnelles intégrées
 
-- **Portes automatiques**
+- Portes automatiques.
 
 ---
 
@@ -78,4 +78,3 @@ java -cp "libs/*:bin" fr.tp.inf112.robotsim.simulator.SimulatorApplication
 Pour toute question ou rapport de bug :
 
 **Camelia REKIOUA** – [camelia.rekioua@telecom-paris.fr](mailto:camelia.rekioua@telecom-paris.fr)
-```
